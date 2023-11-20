@@ -2,7 +2,7 @@
 // 50 chữ đầu --- giá 1600
 // 100 chữ tieps theo --- giá 2000
 // 100 chữ tiếp theo --- giá 2300
-// Trên 250 chữ --- giá 2500
+// Từ 250 chữ trờ lên --- giá 2500
 
 
 let sochudien = +prompt("Số chữ điện 1 gia đình dùng trong tháng: "); 
